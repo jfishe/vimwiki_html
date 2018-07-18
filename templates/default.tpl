@@ -4,7 +4,7 @@
     <head>
 <!-- Include required JS files -->
         <script type="text/javascript" src="../%root_path%MathJax/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
-        <link rel="Stylesheet" type="text/css" href="../%root_path%css/%css%">
+        <link rel="Stylesheet" type="text/css" href="%root_path%%css%">
 
         <title>%title%</title>
 
